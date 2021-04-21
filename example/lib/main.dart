@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:context_menu/context_menu.dart';
+import 'package:menus/menus.dart';
 
 void main() {
   runApp(MyApp());
@@ -49,7 +49,7 @@ class HomePage extends StatelessWidget {
 }
 
 class RichTextEditor extends StatefulWidget {
-  RichTextEditor({Key key}) : super(key: key);
+  RichTextEditor({Key? key}) : super(key: key);
 
   @override
   _RichTextEditorState createState() => _RichTextEditorState();

@@ -43,13 +43,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.15.0"
-  context_menu:
-    dependency: "direct dev"
-    description:
-      path: ".."
-      relative: true
-    source: path
-    version: "0.0.1"
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -81,6 +74,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.10"
+  menus:
+    dependency: "direct dev"
+    description:
+      path: ".."
+      relative: true
+    source: path
+    version: "0.0.1"
   meta:
     dependency: transitive
     description:

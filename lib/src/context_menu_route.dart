@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
-import '../context_menu.dart';
+import '../menus.dart';
 
 const Duration _kMenuDuration = Duration(milliseconds: 200);
 const double _kMenuCloseIntervalEnd = 2.0 / 3.0;

@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:context_menu/context_menu.dart';
+import 'package:menus/menus.dart';
 
 void main() {
   test('adds one to input values', () {

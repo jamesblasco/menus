@@ -1,5 +1,5 @@
-import 'package:context_menu/src/default_context_menu_layout.dart';
-import 'package:context_menu/src/menu_context_controller.dart';
+import 'package:menus/src/default_context_menu_layout.dart';
+import 'package:menus/src/menu_context_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 

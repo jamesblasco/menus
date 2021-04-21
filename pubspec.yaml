@@ -1,7 +1,7 @@
-name: context_menu
+name: menus
 description: Context menus for your Flutter App.
 version: 0.0.1
-homepage: https://github.com/jamesblasco/context_menu
+homepage: https://github.com/jamesblasco/menus
 environment:
   sdk: ">=2.12.0 <3.0.0"
   flutter: ">=2.0.0"

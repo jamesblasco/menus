@@ -1,4 +1,4 @@
-import 'package:context_menu/src/context_menu.dart';
+import 'package:menus/src/context_menu.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
